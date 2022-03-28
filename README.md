@@ -16,7 +16,7 @@
 
 최종 디자인 시안 결정
 * 자취생 요리 레시피 사이트 및 유요한 팁 사이트
-참고 사이트 : http://www.hscook.com/main/index.do?gclid=EAIaIQobChMIiqOC89rn9gIVw1VgCh0ngAFlEAAYASAAEgK4MPD_BwE   
+참고 사이트 : http://www.hscook.com/
 참고 사이트 : https://www.10000recipe.com/
 
 서브 페이지에 들어갈 레시피 자료 구하기
