@@ -16,7 +16,9 @@
 
 1. 사이트에 들어갈 로고 제작을 위한 구상
 2. 사이트 로고 2가지 구상
-3. 최종 로고 결정
+> ![logo](https://user-images.githubusercontent.com/89890434/161749268-946706f3-c8c5-4546-9c5c-aaf02561e5b0.png)   
+  ![logo-1](https://user-images.githubusercontent.com/89890434/161749274-082a53dd-7457-4182-a964-d40c902edeac.png)
+4. 최종 로고 결정
 
 
 ### [03월 24일]
