@@ -19,7 +19,7 @@
 > ![웹 1920 – 1](https://user-images.githubusercontent.com/89890434/161908405-959de27a-d002-47ea-9467-ca9b631ff284.png)
 
 변경 페이지
-> 
+> ![와이어 프레임(가로) (2)](https://user-images.githubusercontent.com/89890434/161915611-d3b90bfb-a345-4629-83d3-1e7945f6767d.png)
 
 ### [03월 30일]
 
