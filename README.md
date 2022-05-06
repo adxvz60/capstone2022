@@ -24,11 +24,11 @@
 
 새 템플릿 문구
 * 아직 임시로 넣은 문구입니다. 추후 문제사항 해결후 따로 만들어놓은 문구를 넣을 예정입니다.
-> 메인
+> 메인   
 ![메인 문구](https://user-images.githubusercontent.com/89890434/167116853-bd5c15b2-df27-46a8-9e21-c5f5d298365c.PNG)
 
-> 메인서브
-
+> 메인서브   
+![메인 서브 문구](https://user-images.githubusercontent.com/89890434/167116946-1e6f128c-860b-44f5-8497-c49d3f6d6edc.PNG)
 
 ### [04월 27일]
 
