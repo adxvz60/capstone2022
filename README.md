@@ -12,6 +12,23 @@
 - 이름 : 유호철-서브페이지 제작 
 <hr>
 
+### [05월 18일]
+
+작업내용
+* 이벤트 배너 설명란 문구추가   
+> 이벤트 배너의 이벤트들은 추후 이벤트목록을 정한추 내용추가예정입니다.   
+![image](https://user-images.githubusercontent.com/89890434/169688791-faa2236f-94df-403c-83c0-5f72b4e91a6e.png)
+
+
+* 하단 부분 간략한 소개부분 추가   
+> ![image](https://user-images.githubusercontent.com/89890434/169688824-83cd4962-75b2-4d58-92e1-1a08767fe9a0.png)
+
+
+* 추천레시피 배너 문구추가 
+> 요리의 분류만 구분지어 놓고 레시피 수집후 내용추가예정입니다.   
+> ![image](https://user-images.githubusercontent.com/89890434/169688834-3ae77767-f359-41d1-9434-31ef9ba9e5d9.png)
+
+
 ### [05월 11일]
 
 작업내용
