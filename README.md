@@ -12,6 +12,17 @@
 - 이름 : 유호철-서브페이지 제작 
 <hr>
 
+### [05월 25일]
+
+작업내용   
+ABOUT US 페이지 문구 제작
+* 상단1 상세페이지 요리 및 디저트 문구 제작
+> ![image](https://user-images.githubusercontent.com/89890434/170851435-3241cba9-98b4-4824-b3e7-ea69297385dd.png)
+
+* 상단2 사이트 소개 및  문구 제작
+> ![image](https://user-images.githubusercontent.com/89890434/170851441-58686cda-c5b2-408a-9f6d-367b11a460dd.png)
+
+
 ### [05월 18일]
 
 작업내용
